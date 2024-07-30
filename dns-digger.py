@@ -3,7 +3,7 @@ import dns.resolver
 import dns.resolver
 
 # Dominio para el que deseas obtener los registros DNS
-dominio = "rowfitness.cl"
+dominio = "example.com"
 
 # Nombre del archivo de salida para almacenar los registros DNS
 archivo_salida = "registros_dns_cloudflare.txt"
